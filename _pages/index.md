@@ -40,15 +40,15 @@ This tutorial will be presented at [EACL 2021](https://2021.eacl.org/){:target="
     <img src="/assets/images/bio-photo.jpg" alt="Matteo Negri">
   </div>
   <div class="organizer-bio">
-    <a href="" target="_blank">Matteo Negri</a> is a senior researcher in the Machine Translation  unit at Fondazione Bruno Kessler. He received his degree in Philosophy of Language from the University of Turin, Italy in 2000. His research interests are in the field of computational linguistics, particularly  machine translation, spoken language translation,  textual  entailment  and  question  answering. He worked in several EU  projects (QT21, CRACKER,  MMT,  MateCat, CoSyne, QALL-ME) and co-organised conferences, workshops and evaluation campaigns in NLP and MT-related areas (including the Conference on Machine Translation, the International Workshop on Spoken Language Translation and SemEval shared tasks).  Together with Marco Turchi, he was the recipient of an Amazon AWS ML Research Award on "End-to-end Spoken Language Translation in Rich Data Conditions."
+    <a href="" target="_blank">Matteo Negri</a> is a senior researcher in the Machine Translation  unit at Fondazione Bruno Kessler. He received his degree in Philosophy of Language from the University of Turin, Italy in 2000. His research interests are in the field of computational linguistics, particularly  machine translation, spoken language translation,  textual  entailment  and  question  answering. He worked in several EU  projects (QT21, CRACKER,  MMT,  MateCat, CoSyne, QALL-ME) and co-organised conferences, workshops and evaluation campaigns in NLP and MT-related areas (including the Conference on Machine Translation, the International Workshop on Spoken Language Translation and SemEval shared tasks).  Together with Marco Turchi, he was the recipient of an Amazon AWS ML Research Award on “End-to-end Spoken Language Translation in Rich Data Conditions.”
   </div>
 </div>
 
 
 
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:site" content="@NLPwithFriends" />
-<meta name="twitter:creator" content="@NLPwithFriends" />
-<meta name="twitter:title" content="NLP with Friends" />
-<meta name="twitter:description" content="An online seminar series covering topics relating to NLP -- made for students, by students." />
-<meta name="twitter:image" content="https://nlpwithfriends.com/assets/images/logo.png" />
+<meta name="twitter:site" content="@esalesk" />
+<meta name="twitter:creator" content="@esalesk" />
+<meta name="twitter:title" content="Speech Translation Tutorial: EACL2021" />
+<meta name="twitter:description" content="A tutorial on end-to-end speech translation" />
+<meta name="twitter:image" content="https://st-tutorial.github.io/assets/images/logo.png" />
