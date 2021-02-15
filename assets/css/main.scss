@@ -1,0 +1,130 @@
+---
+---
+
+/* variables go above import statements, straight css goes below */
+
+// variables example:
+// https://github.com/mmistakes/minimal-mistakes/blob/master/_sass/minimal-mistakes/_variables.scss
+
+/* colors */
+$background-color: #FAF4F4 !default;
+$primary-color: #FAF4F4 !default;
+$link-color: #008FF5 !default;
+$link-color-visited: $link-color !default;
+$masthead-link-color: $background-color !default;
+$masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
+$navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
+$masthead-color: #344055 !default;
+
+/* headline scale */
+$h-size-1: 1.563em !default; // ~25.008px
+$h-size-2: 1.25em !default; // ~20px
+$h-size-3: 1.125em !default; // ~18px
+$h-size-4: 1.0625em !default; // ~17px
+$h-size-5: 1.03125em !default; // ~16.5px
+$h-size-6: 1em !default; // ~16px
+
+
+@import "minimal-mistakes/skins/mint";
+@import "{{ site.theme }}";
+
+
+#main {
+    padding-top: 1em;
+    padding-left: 0em !important;
+    padding-right: 0em !important;
+}
+
+html {
+    background-color: $background-color;
+    font-size: 18px !important;
+
+    @include breakpoint($medium) {
+        font-size: 18px !important;
+    }
+
+    @include breakpoint($large) {
+        font-size: 18px !important;
+    }
+    
+    @include breakpoint($x-large) {
+        font-size: 20px !important;
+    }
+}
+  
+.sidebar {
+    opacity: 1.0 !important;
+    padding-right: 4em;
+}
+
+a {
+    font-weight: bold;
+}
+
+.masthead {
+    background-color: $masthead-color;
+}
+
+.greedy-nav {
+    background-color: $masthead-color;
+}
+
+.page__footer {
+    background-color: $masthead-color;
+}
+
+.greedy-nav a:hover {
+    color: $primary-color;
+}
+
+.greedy-nav a:before {
+    background: $link-color !important;
+}
+
+.greedy-nav a.site-title {
+    color: $primary-color;
+}
+
+.greedy-nav .hidden-links {
+    background: $masthead-color !important;
+}
+
+.site-subtitle {
+    font-style: italic;
+}
+
+.page__footer .fa-envelope {
+    color: white !important;
+}
+
+.page__footer-copyright {
+    color: $primary-color !important;
+}
+
+.initial-content, .search-content {
+    padding-top: 20px;
+}
+
+.organizer-wrapper {
+    width: 100%;
+    margin-bottom: 2em;
+}
+
+.organizer-img {
+    float: left;
+    width: 20%;
+    padding-right: 15px;
+    padding-top: 5px;
+}
+
+.organizer-bio {
+    vertical-align:top;
+}
+
+.organizer-bio a {
+    font-weight: bold;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
