@@ -51,7 +51,10 @@ html {
         font-size: 20px !important;
     }
 }
-  
+
+@media (min-width: 64em) { .page { float: right; width: calc(100% - 200px); padding-right: 200px; } }
+@media (min-width: 80em) { .page {width: calc(100% - 200px);padding-right: 200px;} }
+
 .sidebar {
     opacity: 1.0 !important;
     padding-right: 4em;
