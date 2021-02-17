@@ -12,9 +12,28 @@ Slides and recordings for the tutorial will be posted here closer to EACL 2021.
 <link rel="stylesheet" href="../assets/css/main.css">
 <script src="../assets/js/collapse.min.js"></script>
 
-## Suggested reading list:
 
 <bibtex src="/assets/bibtex/reading_list.bib"></bibtex>
+
+
+## Introduction
+
+### The speech translation task
+
+### Challanges
+
+### Traditional cascaded approach
+
+## End-to-End Speech Translation
+
+### State-of-the-art
+
+<div class="bibtex_display" categroy="{First papers on end-to-end ST}"></div>
+
+
+
+## Suggested reading list:
+
 
 <div class="bibtex_structure">
   <div class="group category" extra="DESC number">
