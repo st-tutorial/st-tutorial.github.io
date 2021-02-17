@@ -4,6 +4,7 @@ To preview this site locally before pushing, you will need:
 - Ruby
 - Bundler
 - Jekyll
+
 On mac, you can follow [these steps](https://jekyllrb.com/docs/installation/macos/) to get set up
 
 Then, you can make local changes, and run `bundle exec jekyll serve` to preview the site at http://127.0.0.1:4000  
