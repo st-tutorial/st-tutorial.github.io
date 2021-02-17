@@ -1,27 +1,14 @@
-# Minimal Mistakes remote theme starter
+# ST-Tutorial
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+To preview this site locally before pushing, you will need:
+- Ruby
+- Bundler
+- Jekyll
+On mac, you can follow [these steps](https://jekyllrb.com/docs/installation/macos/) to get set up
 
-Contains basic configuration to get you a site with:
-
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+Then, you can make local changes, and run `bundle exec jekyll serve` to preview the site at http://127.0.0.1:4000  
+Note: if there are local hidden/temp files (.#*, *~, etc), you may need to delete these to build the site properly.
 
 ---
 
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+Click [**use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) to get started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes) on another repository.
