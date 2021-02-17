@@ -16,6 +16,12 @@ Slides and recordings for the tutorial will be posted here closer to EACL 2021.
 
 <bibtex src="/assets/bibtex/reading_list.bib"></bibtex>
 
+<div class="bibtex_structure">
+  <div class="group category" extra="DESC number">
+    <div class="templates"></div>
+  </div>
+</div>
+
 <div id="bibtex_display">
   <div class="bibtex_template">
     <ul> <li>
