@@ -6,7 +6,7 @@ title: "Speech Translation Tutorial"
 This tutorial will be presented at [EACL 2021](https://2021.eacl.org/){:target="_blank"}. 
 
 
-## <i class="fas fa-fw fa-chalkboard-teacher"></i>&nbsp; Abstract
+## <i class="far fa-newspaper"></i>&nbsp; Abstract
 
 Speech translation is the translation of speech in one language typically to text in another, traditionally accomplished through a combination of automatic speech recognition and machine translation. Speech translation has attracted interest for many years, but the recent successful applications of deep learning to both individual tasks have enabled new opportunities through joint modeling, in what we today call `end-to-end speech translation.'
 

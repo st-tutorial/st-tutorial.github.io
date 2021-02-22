@@ -1,6 +1,6 @@
 ---
 permalink: /overview/
-title: "EACL 2021 Overview"
+title: "Tutorial Overview"
 ---
 
 Slides and recordings for the tutorial will be posted closer to EACL 2021.
