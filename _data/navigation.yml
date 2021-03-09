@@ -1,7 +1,7 @@
 main:
-  - title: "Tutorial"
+  - title: "Overview"
+    url: /overview/
+  - title: "Materials"
     url: /materials/
-  - title: "Resources"
+  - title: "Data & Resources"
     url: /resources/
-  - title: "References"
-    url: /references/

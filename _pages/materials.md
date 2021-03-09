@@ -1,6 +1,6 @@
 ---
-permalink: /references/
-title: "References"
+permalink: /materials/
+title: "All Materials"
 ---
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
@@ -9,7 +9,7 @@ title: "References"
 <link rel="stylesheet" href="../assets/css/main.css">
 <script src="../assets/js/collapse.min.js"></script>
 
-All referenced papers, with links and bibtex, to be posted here closer to EACL 2021.
+Individual tutorial sections with slides, videos, and all referenced papers, with links and bibtex, to be posted here closer to EACL 2021.
 
 <bibtex src="/assets/bibtex/test.bib"></bibtex>
 
