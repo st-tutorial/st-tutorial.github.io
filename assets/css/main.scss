@@ -52,12 +52,22 @@ html {
     }
 }
 
-@media (min-width: 64em) { .page { float: right; width: calc(100% - 200px); padding-right: 200px; } }
-@media (min-width: 80em) { .page {width: calc(100% - 200px);padding-right: 200px;} }
+@media (min-width: 64em) { .page { float: right; width: calc(100% - 200px); padding-right: 200px; padding-left: 50px;} }
+@media (min-width: 80em) { .page { width: calc(100% - 200px); padding-right: 200px; padding-left: 50px;} }
+@media (min-width: 64em) { .sidebar { float: left; width: calc(200px); opacity: 0.75; -webkit-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; } }
+@media (min-width: 80em) { .sidebar { width: calc(200px); } }
+.sidebar p, .sidebar li {font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;font-size: 0.75em;line-height: 1.25;margin-bottom: 7px;}
+.nav__sub-title {display: block;margin: 1rem 0 0.5rem 0;padding: 0.25rem 0;font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;font-size: 0.75em;font-weight: bold;text-transform: uppercase;border-bottom: 1px solid #cfd4d3;}
+
+
+nav a {
+    text-decoration: none;
+    font-weight: normal;
+}
 
 .sidebar {
     opacity: 1.0 !important;
-    padding-right: 4em;
+    padding-right: 2em !important;
 }
 
 a {
@@ -138,4 +148,75 @@ a {
 
 #bibtex_display {
     font-size: 18px;
+}
+
+
+.panel-group {
+    margin-bottom: 20px;
+}
+
+.panel-group .panel {
+    margin-bottom: 0;
+    border-radius: 4px;
+}
+
+.panel-default {
+    border-color: #ddd;
+}
+.panel {
+    margin-bottom: 20px;
+    background-color: #FBF6F6;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 5%);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 5%);
+}
+
+.panel-default>.panel-heading {
+    color: #333;
+    background-color: #FBF2F2;
+    border-color: #ddd;
+}
+
+.panel-group .panel-heading {
+    border-bottom: 0;
+}
+.panel-heading {
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+
+.panel-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+    color: inherit;
+}
+
+.show {
+    display: block !important;
+}
+
+.panel-group .panel+.panel {
+    margin-top: 5px;
+}
+
+.panel-title>.small, .panel-title>.small>a, .panel-title>a, .panel-title>small, .panel-title>small>a {
+    color: #40514E;
+    text-decoration: none !important;
+}
+
+.panel-default>.panel-heading+.panel-collapse>.panel-body {
+    border-top-color: #ddd;
+}
+
+.panel-group .panel-heading+.panel-collapse>.list-group, .panel-group .panel-heading+.panel-collapse>.panel-body {
+    border-top: 1px solid #ddd;
+    background: #FBF6F6;
+}
+
+.panel-body {
+    padding: 15px;
 }
