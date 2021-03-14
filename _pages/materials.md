@@ -229,7 +229,7 @@ Links to slides, videos, and referenced papers by tutorial section.
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion4" href="#utterance-segmentation">Utterance segmentation</a>
+          <a data-toggle="collapse" data-parent="#accordion4" href="#utterance-segmentation-evaluation">Utterance segmentation</a>
         </h4>
       </div>
       <div id="utterance-segmentation-evaluation" class="panel-collapse collapse">
@@ -243,7 +243,7 @@ Links to slides, videos, and referenced papers by tutorial section.
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href4="#mitigating-error-gender-bias">Mitigating errors: Gender bias</a>
+          <a data-toggle="collapse" data-parent="#accordion4" href="#mitigating-error-gender-bias">Mitigating errors: Gender bias</a>
         </h4>
       </div>
       <div id="mitigating-error-gender-bias" class="panel-collapse collapse">
