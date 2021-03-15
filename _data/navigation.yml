@@ -5,3 +5,69 @@ main:
     url: /materials/
   - title: "Data & Resources"
     url: /resources/
+
+sidebar-materials:
+  - title: "Introduction"
+    url: introduction
+    children:
+      - title: "Task definition"
+        url: task-definition
+      - title: "Challenges of speech"
+        url: challenges-of-speech
+      - title: "Cascaded models"
+        url: cascaded-models
+  - title: "End-to-End"
+    url: end-to-end
+    children:
+      - title: "State-of-the-art"
+        url: state-of-the-art
+      - title: "Input representations"
+        url: input-representations
+      - title: "Architecture & modifications"
+        url: architecture--modifications
+      - title: "Output representations"
+        url: output-representations
+  - title: "Leveraging Data Sources"
+    url: leveraging-data-sources
+    children:
+      - title: "Available data"
+        url: available-data
+      - title: "Multi-task"
+        url: techniques-multi-task
+      - title: "Transfer learning & pretraining"
+        url: techniques-transfer-learning--pretraining
+      - title: "Knowledge distillation"
+        url: techniques-knowledge-distillation
+      - title: "Alternate data representations"
+        url: alternate-data-representations
+  - title: "Evaluation"
+    url: evaluation
+    children:
+      - title: "Automatic metrics"
+        url: automatic-metrics
+      - title: "Utterance segmentation"
+        url: utterance-segmentation-evaluation
+      - title: "Gender bias"
+        url: mitigating-error-gender-bias
+  - title: "Advanced Topics"
+    url: advanced-topics
+    children:
+      - title: "Utterance segmentation"
+        url: utterance-segmentation
+      - title: "Multilingual ST"
+        url: multilingual-st
+      - title: "Under-resourced languages"
+        url: under-resourced-languages
+  - title: "Real World"
+    url: real-world
+    children:
+      - title: "Subtitles"
+        url: automatic-generation-of-subtitles
+      - title: "Simultaneous translation"
+        url: simultaneous-translation
+  - title: "Conclusion"
+    url: conclusion
+    children:
+      - title: "Conclusion"
+        url: conclusion
+        
