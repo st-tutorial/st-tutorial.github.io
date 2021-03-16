@@ -50,6 +50,78 @@
 % State-of-the-art
 %------------------------
 
+@inproceedings{berard2016listen,
+  title={Listen and Translate: A Proof of Concept for End-to-End Speech-to-Text Translation},
+  author={B{\'e}rard, Alexandre and Pietquin, Olivier and Besacier, Laurent and Servan, Christophe},
+  booktitle={NIPS Workshop on end-to-end learning for speech and audio processing},
+  year={2016},
+  url={https://arxiv.org/abs/1612.01744},
+  category={State-of-the-art}
+}
+
+@article{weiss2017sequence,
+  title={Sequence-to-Sequence Models Can Directly Translate Foreign Speech},
+  author={Weiss, Ron J and Chorowski, Jan and Jaitly, Navdeep and Wu, Yonghui and Chen, Zhifeng},
+  journal={Interspeech},
+  year={2017},
+  url={https://arxiv.org/abs/1703.08581},
+  category={State-of-the-art}
+}
+
+@inproceedings{ansari2020findings,
+  title={Findings of the IWSLT 2020 Evaluation Campaign},
+  author={Ansari, Ebrahim and Bach, Nguyen and Bojar, Ond{\v{r}}ej and Cattoni, Roldano and Dalvi, Fahim and Durrani, Nadir and Federico, Marcello and Federmann, Christian and Gu, Jiatao and Huang, Fei and others},
+  booktitle={IWSLT},
+  year={2020},
+  url={https://www.aclweb.org/anthology/2020.iwslt-1.1/},
+  category={State-of-the-art}
+}
+
+@inproceedings{jia2019leveraging,
+  title={Leveraging weakly supervised data to improve end-to-end speech-to-text translation},
+  author={Jia, Ye and Johnson, Melvin and Macherey, Wolfgang and Weiss, Ron J and Cao, Yuan and Chiu, Chung-Cheng and Ari, Naveen and Laurenzo, Stella and Wu, Yonghui},
+  booktitle={ICASSP},
+  year={2019},
+  url={https://arxiv.org/abs/1811.02050},
+  category={State-of-the-art}
+}
+
+@inproceedings{di2019adapting,
+  title={Adapting transformer to end-to-end spoken language translation},
+  author={Di Gangi, Mattia A and Negri, Matteo and Turchi, Marco},
+  booktitle={Interspeech},
+  year={2019},
+  url={https://cris.fbk.eu/retrieve/handle/11582/319654/29817/3045.pdf},
+  category={State-of-the-art}
+}
+
+@article{sperber2019attention,
+  title={Attention-passing models for robust and data-efficient end-to-end speech translation},
+  author={Sperber, Matthias and Neubig, Graham and Niehues, Jan and Waibel, Alex},
+  journal={TACL},
+  year={2019},
+  url={https://arxiv.org/abs/1904.07209},
+  category={State-of-the-art}
+}
+
+@inproceedings{karakanta202042,
+  title={Is 42 the Answer to Everything in Subtitling-oriented Speech Translation?},
+  author={Karakanta, Alina and Negri, Matteo and Turchi, Marco},
+  booktitle={IWSLT},
+  year={2020},
+  url={https://www.aclweb.org/anthology/2020.iwslt-1.26.pdf},
+  category={State-of-the-art}
+}
+
+@inproceedings{gaido2020breeding,
+  title={Breeding Gender-aware Direct Speech Translation Systems},
+  author={Gaido, Marco and Savoldi, Beatrice and Bentivogli, Luisa and Negri, Matteo and Turchi, Marco},
+  booktitle={COLING},
+  year={2020},
+  url={https://arxiv.org/abs/2012.04955},
+  category={State-of-the-art}
+}
+
 
 %------------------------
 % Input representations
@@ -80,6 +152,51 @@
 %------------------------
 % Output representations
 %------------------------
+
+@article{bansal2018low,
+  title={Low-Resource Speech-to-Text Translation},
+  author={Bansal, Sameer and Kamper, Herman and Livescu, Karen and Lopez, Adam and Goldwater, Sharon},
+  journal={Interspeech},
+  year={2018},
+  url={https://arxiv.org/abs/1803.09164},
+  category={Output representations}
+}
+
+@inproceedings{berard_2016,
+  author = {Bérard, Alexandre and Pietquin, Olivier and Servan, Christophe and Besacier, Laurent},
+  year = {2016},
+  title = {{Listen and Translate: A Proof of Concept for End-to-End Speech-to-Text Translation}},
+  booktitle = {NIPS Workshop on end-to-end learning for speech and audio processing},
+  url={https://arxiv.org/abs/1612.01744},
+  category={Output representations}
+}
+
+@article{weiss2017sequence,
+  title={Sequence-to-Sequence Models Can Directly Translate Foreign Speech},
+  author={Weiss, Ron J and Chorowski, Jan and Jaitly, Navdeep and Wu, Yonghui and Chen, Zhifeng},
+  journal={Interspeech},
+  year={2017},
+  url={https://arxiv.org/abs/1703.08581},
+  category={Output representations}
+}
+
+@article{sperber2018kit, 
+  title={{KIT's IWSLT 2018 SLT translation system}},
+  author={Sperber, Matthias and Pham, Ngoc Quan and Nguyen, Thai Son and Niehues, Jan and M{\"u}ller, Markus and Ha, Thanh-Le and St{\"u}ker, Sebastian and Waibel, Alex},
+  booktitle={IWSLT},
+  year={2018},
+  url={https://pdfs.semanticscholar.org/8402/923252fa1479280a925af39492e8de8e4593.pdf},
+  category={Output representations}
+}
+
+@inproceedings{di2020target,
+  title={On Target Segmentation for Direct Speech Translation},
+  author={Di Gangi, Mattia A and Gaido, Marco and Negri, Matteo and Turchi, Marco},
+  booktitle={AMTA},
+  year={2020},
+  url={https://arxiv.org/abs/2009.04707},
+  category={Output representations}
+}
 
 %------------------------
 % Available data
@@ -241,7 +358,6 @@
   category={Techniques: Multi-task},
 }
 
-
 @inproceedings{le-etal-2020-dual,
     title = "Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation",
     author = "Le, Hang  and
@@ -265,7 +381,6 @@
   category={Techniques: Multi-task},
 }
 
-
 @article{Sperber2019,
   author = {Sperber, Matthias and Neubig, Graham and Niehues, Jan and Waibel, Alex},
   journal = {TACL},
@@ -275,7 +390,6 @@
   url = {},
   category={Techniques: Multi-task},
 }
-
 
 @inproceedings{anastasopoulos+chiang:naacl2018,
     author = "Anastasopoulos, Antonios and Chiang, David",
@@ -305,14 +419,79 @@
 }
 
 
-
 %------------------------
 % Techniques: Transfer learning & pretraining
 %------------------------
 
+@inproceedings{bansal2019pre,
+  title={Pre-training on high-resource speech recognition improves low-resource speech-to-text translation},
+  author={Bansal, Sameer and Kamper, Herman and Livescu, Karen and Lopez, Adam and Goldwater, Sharon},
+  booktitle={NAACL-HLT},
+  year={2019},
+  url={https://www.aclweb.org/anthology/N19-1006/},
+  category={Techniques: Transfer learning & pretraining}
+}
+
+@inproceedings{berard2018end,
+  title={End-to-end automatic speech translation of audiobooks},
+  author={B{\'e}rard, Alexandre and Besacier, Laurent and Kocabiyikoglu, Ali Can and Pietquin, Olivier},
+  booktitle={ICASSP},
+  year={2018},
+  url={https://arxiv.org/abs/1802.04200},
+  category={Techniques: Transfer learning & pretraining}
+}
+
+@inproceedings{wu2020self,
+  title={Self-Supervised Representations Improve End-to-End Speech Translation},
+  author={Wu, Anne and Wang, Changhan and Pino, Juan and Gu, Jiatao},
+  journal={Interspeech},
+  year={2020},
+  url={https://arxiv.org/abs/2006.12124},
+  category={Techniques: Transfer learning & pretraining}
+}
+
+@article{li2021multilingual,
+  title={Multilingual Speech Translation with Efficient Finetuning of Pretrained Models},
+  author={Xian Li and Changhan Wang and Yun Tang and Chau Tran and Yuqing Tang and Juan Pino and Alexei Baevski and Alexis Conneau and Michael Auli},
+  year={2021},
+  eprint={2010.12829},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2010.12829},
+  category={Techniques: Transfer learning & pretraining}
+}
+
+
 %------------------------
 % Techniques: Knowledge distillation
 %------------------------
+
+@inproceedings{kim2016sequence,
+  title={Sequence-Level Knowledge Distillation},
+  author={Kim, Yoon and Rush, Alexander M},
+  booktitle={EMNLP},
+  year={2016},
+  url={https://arxiv.org/abs/1606.07947},
+  category={Techniques: Knowledge distillation}
+}
+
+@inproceedings{liu2019end,
+  title={End-to-End Speech Translation with Knowledge Distillation},
+  author={Liu, Yuchen and Xiong, Hao and Zhang, Jiajun and He, Zhongjun and Wu, Hua and Wang, Haifeng and Zong, Chengqing},
+  booktitle={Interspeech},
+  year={2019},
+  url={https://arxiv.org/abs/1904.08075},
+  category={Techniques: Knowledge distillation}
+}
+
+@inproceedings{gaido2020knowledge,
+  title={On Knowledge Distillation for Direct Speech Translation},
+  author={Gaido, Marco and Di Gangi, Mattia A and Negri, Matteo and Turchi, Marco},
+  booktitle={CLiC-IT},
+  year={2020},
+  url={https://arxiv.org/abs/2012.04964},
+  category={Techniques: Knowledge distillation}
+}
+
 
 %------------------------
 % Alternate data representations
@@ -325,6 +504,15 @@
 %------------------------
 % Utterance segmentation: Evaluation
 %------------------------
+
+@inproceedings{matusov2005evaluating,
+  title={Evaluating machine translation output with automatic sentence segmentation},
+  author={Matusov, Evgeny and Leusch, Gregor and Bender, Oliver and Ney, Hermann},
+  booktitle={IWSLT},
+  year={2005},
+  url={https://www-i6.informatik.rwth-aachen.de/publications/download/344/MatusovEvgenyLeuschGregorBenderOliverNeyHermann--EvaluatingMachineTranslationOutputwithAutomaticSentenceSegmentation--2005.pdf},
+  category={Utterance segmentation: Evaluation}
+}
 
 %------------------------
 % Mitigating errors: Gender bias
