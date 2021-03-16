@@ -12,8 +12,8 @@ sidebar:
 <link rel="stylesheet" href="../assets/css/main.css">
 <script src="../assets/js/collapse.min.js"></script>
 
-Links to slides, videos, and referenced papers by tutorial section.  
-*Slides and video links to come closer to EACL 2021.*
+Links to slides, video, and referenced papers for each individual tutorial section.  
+
 
 
 ## Introduction

@@ -3,8 +3,11 @@ permalink: /overview/
 title: "Tutorial Overview"
 ---
 
-Slides and recordings for the tutorial will be posted closer to EACL 2021.
+SlidesLive link will be posted here closer to EACL 2021.
 
+<br>
+
+**Expected background:** basic knowledge of machine learning and sequence-to-sequence models for machine translation, such as are covered in most introductory NLP courses.
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.min.js"></script>
