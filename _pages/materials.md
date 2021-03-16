@@ -229,7 +229,7 @@ Links to slides, videos, and referenced papers by tutorial section.
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion4" href="#utterance-segmentation-evaluation">Utterance segmentation</a>
+          <a data-toggle="collapse" data-parent="#accordion4" href="#utterance-segmentation-evaluation">Utterance segmentation: Evaluation</a>
         </h4>
       </div>
       <div id="utterance-segmentation-evaluation" class="panel-collapse collapse">

@@ -45,7 +45,7 @@ sidebar-materials:
     children:
       - title: "Automatic metrics"
         url: automatic-metrics
-      - title: "Utterance segmentation"
+      - title: "Utterance segmentation: Evaluation"
         url: utterance-segmentation-evaluation
       - title: "Gender bias"
         url: mitigating-error-gender-bias
