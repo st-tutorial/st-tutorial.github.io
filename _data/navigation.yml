@@ -59,7 +59,7 @@ sidebar-materials:
       - title: "Under-resourced languages"
         url: under-resourced-languages
   - title: "Real World"
-    url: real-world
+    url: real-world-applications
     children:
       - title: "Subtitles"
         url: automatic-generation-of-subtitles
@@ -70,4 +70,9 @@ sidebar-materials:
     children:
       - title: "Conclusion"
         url: conclusion
-        
+  - title: "References"
+    url: references
+    children:
+      - title: "References"
+        url: references
+    

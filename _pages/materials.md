@@ -30,7 +30,7 @@ Links to slides, videos, and referenced papers by tutorial section.
         <div class="panel-body">
           <a href="#"><button type="button" class="btn btn--info">Video</button></a>
           <a href="#"><button type="button" class="btn btn--success">Slides</button></a>
-          <a href="#"><button type="button" class="btn btn--warning">References</button></a>
+          <a href="#Task%20definition"><button type="button" class="btn btn--warning">References</button></a>
         </div>
       </div>
     </div>
@@ -44,7 +44,6 @@ Links to slides, videos, and referenced papers by tutorial section.
         <div class="panel-body">
           <a href="#"><button type="button" class="btn btn--info">Video</button></a>
           <a href="#"><button type="button" class="btn btn--success">Slides</button></a>
-          <a href="#"><button type="button" class="btn btn--warning">References</button></a>
         </div>
       </div>
     </div>
@@ -372,7 +371,7 @@ Links to slides, videos, and referenced papers by tutorial section.
 <bibtex src="/assets/bibtex/full_references.bib"></bibtex>
 
 <div class="bibtex_structure">
-  <div class="group category" extra="DESC number">
+  <div class="group category" extra="ASC string">
     <div class="templates"></div>
   </div>
 </div>
