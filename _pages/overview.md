@@ -40,7 +40,7 @@ Slides and recordings for the tutorial will be posted closer to EACL 2021.
     </div>
     <div>
       <span class="if journal"><em><span class="journal"></span></em>,</span>
-      <span class="if booktitle">In <em><span class="booktitle"></span></em>,</span>
+      <span class="if booktitle"><em><span class="booktitle"></span></em>,</span>
       <span class="if editor"><span class="editor"></span> (editors),</span>
       <span class="if publisher"><em><span class="publisher"></span></em>,</span>
       <span class="if institution"><span class="institution"></span>,</span>
