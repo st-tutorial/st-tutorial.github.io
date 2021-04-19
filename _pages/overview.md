@@ -3,9 +3,11 @@ permalink: /overview/
 title: "Tutorial Overview"
 ---
 
-SlidesLive link will be posted here closer to EACL 2021.
 
-<br>
+<a href="https://www.virtual2021.eacl.org/tutorial_T3.html" target="_blank"><button type="button" class="btn btn--info">EACL2021 Tutorial Page (requires login)</button></a>
+<a href="../assets/slides/eacl2021_st_tutorial.pdf" target="_blank"><button type="button" class="btn btn--success">Slides (pdf)</button></a>
+<a href="../assets/slides/eacl2021_st_tutorial.pptx" target="_blank"><button type="button" class="btn btn--success">Slides (ppt)</button></a>
+
 
 **Expected background:** basic knowledge of machine learning and sequence-to-sequence models for machine translation, such as are covered in most introductory NLP courses.
 
