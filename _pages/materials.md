@@ -28,7 +28,6 @@ Links to slides, video, and referenced papers for each individual tutorial secti
       </div>
       <div id="task-definition" class="panel-collapse collapse in">
         <div class="panel-body">
-          <a href="#"><button type="button" class="btn btn--info">Video</button></a>
           <a href="../assets/slides/slides_1.1.pdf"><button type="button" class="btn btn--success">Slides</button></a>
           <a href="#1.1%20Task%20definition"><button type="button" class="btn btn--warning">References</button></a>
         </div>
@@ -42,7 +41,6 @@ Links to slides, video, and referenced papers for each individual tutorial secti
       </div>
       <div id="challenges-of-speech" class="panel-collapse collapse">
         <div class="panel-body">
-          <a href="#"><button type="button" class="btn btn--info">Video</button></a>
           <a href="../assets/slides/slides_1.2.pdf"><button type="button" class="btn btn--success">Slides</button></a>
         </div>
       </div>
@@ -55,7 +53,6 @@ Links to slides, video, and referenced papers for each individual tutorial secti
       </div>
       <div id="cascaded-models" class="panel-collapse collapse">
         <div class="panel-body">
-          <a href="#"><button type="button" class="btn btn--info">Video</button></a>
           <a href="../assets/slides/slides_1.3.pdf"><button type="button" class="btn btn--success">Slides</button></a>
           <a href="#1.3%20Cascaded%20models"><button type="button" class="btn btn--warning">References</button></a>
         </div>
@@ -77,7 +74,6 @@ Links to slides, video, and referenced papers for each individual tutorial secti
       </div>
       <div id="state-of-the-art" class="panel-collapse collapse in">
         <div class="panel-body">
-          <a href="#"><button type="button" class="btn btn--info">Video</button></a>
           <a href="../assets/slides/slides_2.1.pdf"><button type="button" class="btn btn--success">Slides</button></a>
           <a href="#2.1%20State-of-the-art"><button type="button" class="btn btn--warning">References</button></a>
         </div>
@@ -91,7 +87,6 @@ Links to slides, video, and referenced papers for each individual tutorial secti
       </div>
       <div id="input-representations" class="panel-collapse collapse">
         <div class="panel-body">
-          <a href="#"><button type="button" class="btn btn--info">Video</button></a>
           <a href="../assets/slides/slides_2.2.pdf"><button type="button" class="btn btn--success">Slides</button></a>
           <a href="#2.2%20Input%20representations"><button type="button" class="btn btn--warning">References</button></a>
         </div>
@@ -105,7 +100,6 @@ Links to slides, video, and referenced papers for each individual tutorial secti
       </div>
       <div id="architecture--modifications" class="panel-collapse collapse">
         <div class="panel-body">
-          <a href="#"><button type="button" class="btn btn--info">Video</button></a>
           <a href="../assets/slides/slides_2.3.pdf"><button type="button" class="btn btn--success">Slides</button></a>
           <a href="#2.3%20Architecture%20&%20modifications"><button type="button" class="btn btn--warning">References</button></a>
         </div>
@@ -119,7 +113,6 @@ Links to slides, video, and referenced papers for each individual tutorial secti
       </div>
       <div id="output-representations" class="panel-collapse collapse">
         <div class="panel-body">
-          <a href="#"><button type="button" class="btn btn--info">Video</button></a>
           <a href="../assets/slides/slides_2.4.pdf"><button type="button" class="btn btn--success">Slides</button></a>
           <a href="#2.4%20Output%20representations"><button type="button" class="btn btn--warning">References</button></a>
         </div>
@@ -141,7 +134,6 @@ Links to slides, video, and referenced papers for each individual tutorial secti
       </div>
       <div id="available-data" class="panel-collapse collapse in">
         <div class="panel-body">
-          <a href="#"><button type="button" class="btn btn--info">Video</button></a>
           <a href="../assets/slides/slides_3.1.pdf"><button type="button" class="btn btn--success">Slides</button></a>
           <a href="#3.1%20Available%20data"><button type="button" class="btn btn--warning">References</button></a>
         </div>
@@ -155,7 +147,6 @@ Links to slides, video, and referenced papers for each individual tutorial secti
       </div>
       <div id="techniques-multi-task" class="panel-collapse collapse">
         <div class="panel-body">
-          <a href="#"><button type="button" class="btn btn--info">Video</button></a>
           <a href="../assets/slides/slides_3.2.1.pdf"><button type="button" class="btn btn--success">Slides</button></a>
           <a href="#3.2.1%20Techniques:%20Multi-task"><button type="button" class="btn btn--warning">References</button></a>
         </div>
@@ -169,7 +160,6 @@ Links to slides, video, and referenced papers for each individual tutorial secti
       </div>
       <div id="techniques-transfer-learning--pretraining" class="panel-collapse collapse">
         <div class="panel-body">
-          <a href="#"><button type="button" class="btn btn--info">Video</button></a>
           <a href="../assets/slides/slides_3.2.2.pdf"><button type="button" class="btn btn--success">Slides</button></a>
           <a href="#3.2.2%20Techniques:%20Transfer%20learning%20&%20pretraining"><button type="button" class="btn btn--warning">References</button></a>
         </div>
@@ -183,7 +173,6 @@ Links to slides, video, and referenced papers for each individual tutorial secti
       </div>
       <div id="techniques-knowledge-distillation" class="panel-collapse collapse">
         <div class="panel-body">
-          <a href="#"><button type="button" class="btn btn--info">Video</button></a>
           <a href="../assets/slides/slides_3.2.3.pdf"><button type="button" class="btn btn--success">Slides</button></a>
           <a href="#3.2.3%20Techniques:%20Knowledge%20distillation"><button type="button" class="btn btn--warning">References</button></a>
         </div>
@@ -197,7 +186,6 @@ Links to slides, video, and referenced papers for each individual tutorial secti
       </div>
       <div id="alternate-data-representations" class="panel-collapse collapse">
         <div class="panel-body">
-          <a href="#"><button type="button" class="btn btn--info">Video</button></a>
           <a href="../assets/slides/slides_3.3.pdf"><button type="button" class="btn btn--success">Slides</button></a>
           <a href="#3.3%20Alternate%20data%20representations"><button type="button" class="btn btn--warning">References</button></a>
         </div>
@@ -219,7 +207,6 @@ Links to slides, video, and referenced papers for each individual tutorial secti
       </div>
       <div id="automatic-metrics" class="panel-collapse collapse in">
         <div class="panel-body">
-          <a href="#"><button type="button" class="btn btn--info">Video</button></a>
           <a href="../assets/slides/slides_4.1.pdf"><button type="button" class="btn btn--success">Slides</button></a>
           <a href="#4.1%20Automatic%20metrics"><button type="button" class="btn btn--warning">References</button></a>
         </div>
@@ -233,7 +220,6 @@ Links to slides, video, and referenced papers for each individual tutorial secti
       </div>
       <div id="utterance-segmentation-evaluation" class="panel-collapse collapse">
         <div class="panel-body">
-          <a href="#"><button type="button" class="btn btn--info">Video</button></a>
           <a href="../assets/slides/slides_4.2.pdf"><button type="button" class="btn btn--success">Slides</button></a>
           <a href="#4.2%20Utterance%20segmentation:%20Evaluation"><button type="button" class="btn btn--warning">References</button></a>
         </div>
@@ -247,7 +233,6 @@ Links to slides, video, and referenced papers for each individual tutorial secti
       </div>
       <div id="mitigating-error-gender-bias" class="panel-collapse collapse">
         <div class="panel-body">
-          <a href="#"><button type="button" class="btn btn--info">Video</button></a>
           <a href="../assets/slides/slides_4.3.pdf"><button type="button" class="btn btn--success">Slides</button></a>
           <a href="#4.3%20Mitigating%20errors:%20Gender%20bias"><button type="button" class="btn btn--warning">References</button></a>
         </div>
@@ -269,7 +254,6 @@ Links to slides, video, and referenced papers for each individual tutorial secti
       </div>
       <div id="utterance-segmentation" class="panel-collapse collapse in">
         <div class="panel-body">
-          <a href="#"><button type="button" class="btn btn--info">Video</button></a>
           <a href="../assets/slides/slides_5.1.pdf"><button type="button" class="btn btn--success">Slides</button></a>
           <a href="#5.1%20Utterance%20segmentation"><button type="button" class="btn btn--warning">References</button></a>
         </div>
@@ -283,7 +267,6 @@ Links to slides, video, and referenced papers for each individual tutorial secti
       </div>
       <div id="multilingual-st" class="panel-collapse collapse">
         <div class="panel-body">
-          <a href="#"><button type="button" class="btn btn--info">Video</button></a>
           <a href="../assets/slides/slides_5.2.pdf"><button type="button" class="btn btn--success">Slides</button></a>
           <a href="#5.2%20Multilingual%20ST"><button type="button" class="btn btn--warning">References</button></a>
         </div>
@@ -297,7 +280,6 @@ Links to slides, video, and referenced papers for each individual tutorial secti
       </div>
       <div id="under-resourced-languages" class="panel-collapse collapse">
         <div class="panel-body">
-          <a href="#"><button type="button" class="btn btn--info">Video</button></a>
           <a href="../assets/slides/slides_5.3.pdf"><button type="button" class="btn btn--success">Slides</button></a>
           <a href="#5.3%20Under-resourced%20languages"><button type="button" class="btn btn--warning">References</button></a>
         </div>
@@ -319,7 +301,6 @@ Links to slides, video, and referenced papers for each individual tutorial secti
       </div>
       <div id="automatic-generation-of-subtitles" class="panel-collapse collapse in">
         <div class="panel-body">
-          <a href="#"><button type="button" class="btn btn--info">Video</button></a>
           <a href="../assets/slides/slides_6.1.pdf"><button type="button" class="btn btn--success">Slides</button></a>
           <a href="#6.1%20Automatic%20generation%20of%20subtitles"><button type="button" class="btn btn--warning">References</button></a>
         </div>
@@ -333,7 +314,6 @@ Links to slides, video, and referenced papers for each individual tutorial secti
       </div>
       <div id="simultaneous-translation" class="panel-collapse collapse">
         <div class="panel-body">
-          <a href="#"><button type="button" class="btn btn--info">Video</button></a>
           <a href="../assets/slides/slides_6.2.pdf"><button type="button" class="btn btn--success">Slides</button></a>
           <a href="#6.2%20Simultaneous%20translation"><button type="button" class="btn btn--warning">References</button></a>
         </div>
@@ -355,7 +335,6 @@ Links to slides, video, and referenced papers for each individual tutorial secti
       </div>
       <div id="conclusion" class="panel-collapse collapse in">
         <div class="panel-body">
-          <a href="#"><button type="button" class="btn btn--info">Video</button></a>
           <a href="../assets/slides/slides_7.pdf"><button type="button" class="btn btn--success">Slides</button></a>
         </div>
       </div>
