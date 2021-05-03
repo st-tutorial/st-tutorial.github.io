@@ -5,6 +5,7 @@ title: "Tutorial Overview"
 
 
 <a href="https://www.virtual2021.eacl.org/tutorial_T3.html" target="_blank"><button type="button" class="btn btn--info">EACL2021 Tutorial Page (requires login)</button></a>
+<a href="https://slideslive.com/38954322/endtoend-speech-translation" target="_blank"><button type="button" class="btn btn--info">SlidesLive Video</button></a>
 <a href="../assets/slides/eacl2021_st_tutorial.pdf" target="_blank"><button type="button" class="btn btn--success">Slides (pdf)</button></a>
 <a href="../assets/slides/eacl2021_st_tutorial.pptx" target="_blank"><button type="button" class="btn btn--success">Slides (ppt)</button></a>
 
